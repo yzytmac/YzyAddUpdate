@@ -1,6 +1,6 @@
 # YzyAddUpdate
 
-**自己实现增量更新框架** 
+**自己实现增量更新差分包与合并** 
 
 
 1、DiffProjectWin是windows下生成差分包的工程，里面已经编译好了win64下的动态链接库，可以直接拿来在java层调用  
