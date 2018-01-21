@@ -1,7 +1,8 @@
 # YzyAddUpdate
 
 **自己实现增量更新差分包与合并** 
-
+- 如果觉得有用，不吝啬在右上角给我一个Star。谢谢！！  
+![](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/images/star.png)  
 
 1、src_Win64是windows下生成差分包的源码，dll_Win64里面已经编译好了win64下的动态链接库，可以直接拿来在java层调用  
 
@@ -45,4 +46,5 @@
         
 
         
+联系我：yzytmac@163.com
 
